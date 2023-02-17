@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Server command to receive: nc -lu  -p 8948
+
 # Set the IP address and port number for the destination
 ip_address="192.228.142.196"
 port="8948"
